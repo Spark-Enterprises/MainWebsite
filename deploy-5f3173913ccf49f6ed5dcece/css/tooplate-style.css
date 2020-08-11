@@ -45,7 +45,7 @@ p:last-child {
 }
 
 .tm-page-header {
-  color: #444444;
+  color: white;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -65,7 +65,7 @@ p:last-child {
   width: 100%;
   border-top: 1px solid #909090;
   border-bottom: 1px solid #909090;
-  background-color: grey;
+  background-color: orange;
   z-index: 3000;
 }
 
@@ -73,7 +73,7 @@ p:last-child {
   position: fixed;
   top: 0;
   border-top: none;
-  background: grey;
+  background: orange;
 }
 
 .navbar-expand-md .navbar-nav .nav-link {
@@ -86,8 +86,8 @@ p:last-child {
 
 #tmMainNav .nav-link.current,
 #tmMainNav .nav-link:hover {
-  color: black;
-  background: white;
+  color: white;
+  background: grey;
 }
 
 .navbar-light .navbar-toggler {
