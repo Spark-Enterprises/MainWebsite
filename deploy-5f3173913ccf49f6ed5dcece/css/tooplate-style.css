@@ -228,9 +228,9 @@ p:last-child {
   -ms-flex-align: center;
   align-items: center;
   border: 1px solid #c7c7c7;
-  padding: 10px 10px;
-  margin-bottom: 38px;
-  width: 500px;
+  padding: 50px 50px;
+  margin-bottom: 50px;
+  width: 400px;
 }
 
 .tm-aboutUs-block-text{
