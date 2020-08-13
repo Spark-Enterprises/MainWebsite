@@ -241,7 +241,6 @@ p:last-child {
 .tm-aboutUs-block-text h3{
   margin-bottom: 20px;
   text-align: center;
-
 }
 
 
@@ -252,7 +251,7 @@ p:last-child {
   width: 180 px;
   height: 180px;
   align-content: center;
-  width: 50%;
+  
 }
 
 /*---END of AbouUs---*/
