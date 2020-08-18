@@ -254,6 +254,11 @@ p:last-child {
   
 }
 
+.tm-aboutUs-block-text b {
+  font-size: larger;
+
+}
+
 /*---END of AbouUs---*/
 .tm-activity-block {
   display: -webkit-box;
