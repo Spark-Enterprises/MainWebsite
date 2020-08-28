@@ -237,6 +237,7 @@ p:last-child {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 40px;
   width: 180 px;
   height: 180px;
 
@@ -454,6 +455,7 @@ figure {
   transition: opacity 0s linear;
 }
 
+/*--MEDIA SCREENS--*/
 @media (min-width: 768px) {
   .tm-feature-block {
     margin-bottom: 0;
