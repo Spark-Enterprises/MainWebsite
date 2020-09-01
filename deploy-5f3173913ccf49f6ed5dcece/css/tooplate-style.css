@@ -467,7 +467,7 @@ figure {
     max-width: 582px;
   }
 
-  .tm-company-about {
+  .tm-aboutUs {
     flex-direction: column;
     align-items: center;
   }
@@ -482,12 +482,12 @@ figure {
     max-width: 1233px;
   }
 
-  .tm-company-about {
+  .tm-aboutUs {
     flex-direction: row;
     align-items: flex-start;
   }
 
-  .tm-company-about-text {
+  .tm-aboutUs-block-text {
     padding: 0 35px 35px;
   }
 
