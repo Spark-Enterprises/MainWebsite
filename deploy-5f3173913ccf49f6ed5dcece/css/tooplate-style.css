@@ -244,7 +244,7 @@ p:last-child {
 }
 
 .tm-aboutUs-block-text i {
-  font-size: larger;
+  font-size: medium;
 
 }
 
@@ -467,7 +467,7 @@ figure {
     max-width: 582px;
   }
 
-  .tm-aboutUs-block {
+  .tm-aboutUs {
     flex-direction: column;
     align-items: center;
   }
