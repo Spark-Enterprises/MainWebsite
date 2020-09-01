@@ -460,6 +460,10 @@ figure {
   .tm-feature-block {
     margin-bottom: 0;
   }
+  .tm-aboutUs-block {
+    flex-direction: column;
+    align-items: center;
+  }
 }
 
 @media (min-width: 992px) {
@@ -467,7 +471,7 @@ figure {
     max-width: 582px;
   }
 
-  .tm-aboutUs {
+  .tm-aboutUs-block {
     flex-direction: column;
     align-items: center;
   }
