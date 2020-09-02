@@ -571,6 +571,9 @@ figure {
     padding-top: 70px;
     padding-bottom: 60px;
   }
+  .tm-aboutUs-block {
+    padding-right: 190px;
+  }
 }
 
 @media (min-width: 767px) and (max-width: 992px) {
