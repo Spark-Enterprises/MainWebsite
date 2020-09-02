@@ -414,7 +414,7 @@ figure {
 
 .scroll {
   background: rgba(222, 226, 230, 0.39);
-  padding: 18px 20px 10px;
+  padding: 7px 10px 10px;
   text-align: center;
   margin: 0 0 0 auto;
   cursor: pointer;
@@ -422,7 +422,7 @@ figure {
   -moz-transition: 0.5s;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
-  width: 65px;
+  width: 50px;
   height: 40px;
 }
 
