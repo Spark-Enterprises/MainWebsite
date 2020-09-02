@@ -465,6 +465,7 @@ figure {
   }
   .tm-aboutUs-img-container-center{
     align-self: start;
+    padding-left: 20px;
   }
 }
 
@@ -500,7 +501,7 @@ figure {
     padding: 0 35px 35px;
   }
   .tm-aboutUs-img-container-center{
-    align-self: start;
+    padding-left: 120 px;
   }
   .tm-company-left {
     -webkit-box-flex: 0;
@@ -570,6 +571,8 @@ figure {
   }
   .tm-aboutUs-img-container-center{
     align-self: start;
+    padding-right: -8px;
+    
   }
 }
 
@@ -588,6 +591,7 @@ figure {
   }
   .tm-aboutUs-img-container-center{
     align-self: start;
+    padding-right: -8px;
   }
 }
 
