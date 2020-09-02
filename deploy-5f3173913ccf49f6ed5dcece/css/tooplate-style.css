@@ -463,6 +463,9 @@ figure {
     align-items: center;
     
   }
+  .tm-aboutUs-img-container-center{
+    align-self: start;
+  }
 }
 
 @media (min-width: 992px) {
@@ -477,6 +480,9 @@ figure {
 
   .tm-contact-left {
     margin-bottom: 0;
+  }
+  .tm-aboutUs-img-container-center{
+    align-self: start;
   }
 }
 
@@ -493,7 +499,9 @@ figure {
   .tm-aboutUs-block-text {
     padding: 0 35px 35px;
   }
-
+  .tm-aboutUs-img-container-center{
+    align-self: start;
+  }
   .tm-company-left {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 68%;
@@ -547,6 +555,9 @@ figure {
     top: 50%;
     transform: translate(-50%, -50%);
   }
+  .tm-aboutUs-img-container-center{
+    align-self: start;
+  }
 }
 
 @media (max-width: 540px) {
@@ -556,6 +567,9 @@ figure {
 
   .tm-activity-block-text {
     margin-top: 20px;
+  }
+  .tm-aboutUs-img-container-center{
+    align-self: start;
   }
 }
 
@@ -572,10 +586,16 @@ figure {
   .tm-aboutUs-block {
     padding-right: 190px;
   }
+  .tm-aboutUs-img-container-center{
+    align-self: start;
+  }
 }
 
 @media (min-width: 767px) and (max-width: 992px) {
   .navbar-expand-md .navbar-nav .nav-link {
     padding: 10px 15px;
+  }
+  .tm-aboutUs-img-container-center{
+    align-self: start;
   }
 }
