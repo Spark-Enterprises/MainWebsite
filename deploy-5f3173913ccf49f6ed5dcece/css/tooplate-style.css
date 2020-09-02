@@ -74,7 +74,7 @@ p:last-child {
 #tmMainNav .nav-link.current,
 #tmMainNav .nav-link:hover {
   color: white;
-  background: grey;
+  background: #5f5b53;
 }
 
 .navbar-light .navbar-toggler {
