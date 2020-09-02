@@ -282,7 +282,6 @@ p:last-child {
 .tm-company-about {
   display: flex;
   flex-direction: column;
-  /*align-items: center;*/
   
 }
 
@@ -348,10 +347,6 @@ p:last-child {
 
 #tmCompanyTab .nav-link {
   border-bottom: 1px solid #c7c7c7;
-}
-
-#tmCompanyTab .tm-nav-link-border-right {
-  border-right: 1px solid #c7c7c7;
 }
 
 #tmCompanyTab .nav-item.show .nav-link,
