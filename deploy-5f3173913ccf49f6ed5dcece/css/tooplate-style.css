@@ -242,7 +242,15 @@ p:last-child {
   height: 180px;
 
 }
+.tm-aboutUs-img-container-center-mab{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 40px;
+  width: 10 px;
+  height: auto;
 
+}
 .tm-aboutUs-block-text i {
   font-size: medium;
 
