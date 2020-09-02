@@ -239,16 +239,7 @@ p:last-child {
   margin-right: auto;
   padding-left: 40px;
   width: 180 px;
-  height: 180px;
-
-}
-.tm-aboutUs-img-container-center-mab{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 40px;
-  width: 10px;
-  height: auto;
+  height: 250px;
 
 }
 .tm-aboutUs-block-text i {
