@@ -294,8 +294,9 @@ p:last-child {
 }
 
 .tm-company-img-container img {
-  width: 400px;
+  width: 300px;
   height: auto;
+  align-self:center;
 }
 
 .tm-btn {
