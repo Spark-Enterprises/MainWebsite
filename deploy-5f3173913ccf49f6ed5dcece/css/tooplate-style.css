@@ -591,10 +591,11 @@ figure {
   .tm-aboutUs-block {
     padding-right: 190px;
   }
-  .tm-aboutUs-img-container-center{
-    align-self: start;
-    padding-right: -8px;
-  }
+  .tm-company-img-container img {
+    width: 275px;
+    height: auto;
+    align-items: center;
+    padding-left: 40px;
 }
 
 @media (min-width: 767px) and (max-width: 992px) {
