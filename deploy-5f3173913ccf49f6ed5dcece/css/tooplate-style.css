@@ -380,10 +380,6 @@ p:last-child {
   -ms-flex-pack: end;
   justify-content: flex-end;
 }
-.googleforms-iframe{
-  width:440; 
-  height:719;
-}
 figure {
   max-width: 100%;
 }
