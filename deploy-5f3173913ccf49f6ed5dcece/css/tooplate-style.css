@@ -594,12 +594,7 @@ figure {
     align-items: center;
     padding-left: 40px;
   }
-  .googleforms{
-    width: 75px;
-    height: auto;
-    align-items: center;
-    padding-left: 40px;
-  }
+  
 }
 
 @media (min-width: 767px) and (max-width: 992px) {
