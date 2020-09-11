@@ -309,7 +309,12 @@ p:last-child {
   width: 550px;
   height: 120px;
 }
-
+.tm-podcast-img-container:hover.img{
+  opacity: 0.5;
+}
+.tm-podcast-img-container:hover.Image{
+  opacity: 1;
+}
 .tm-company-about {
   display: flex;
   flex-direction: column;
