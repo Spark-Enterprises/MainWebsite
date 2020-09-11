@@ -314,8 +314,8 @@ p:last-child {
 }
 
 .tm-podcast-img-container {
-  width: 180px;
-  height: 140px;
+  width: 280px;
+  height: auto;
 }
 
 
