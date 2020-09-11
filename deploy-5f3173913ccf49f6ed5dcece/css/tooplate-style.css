@@ -303,7 +303,10 @@ p:last-child {
   padding: 30px 20px;
   margin-bottom: 38px;
 }
-
+.tm-podcast-img {
+  width: 660px;
+  height: 160px;
+}
 
 .tm-company-about {
   display: flex;
