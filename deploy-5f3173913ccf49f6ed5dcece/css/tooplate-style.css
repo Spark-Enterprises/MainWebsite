@@ -302,10 +302,10 @@ p:last-child {
   border: 1px solid black;
   padding: 30px 20px;
   margin-bottom: 38px;
-  opacity: 0.5;
+  opacity: 1;
 }
 .tm-podcast-block:hover{
-  opacity: 1;
+  opacity: 0.5;
 }
 .tm-podcast-img-container {
   width: 550px;
