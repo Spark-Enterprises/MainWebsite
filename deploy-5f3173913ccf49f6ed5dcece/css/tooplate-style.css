@@ -304,10 +304,10 @@ p:last-child {
   margin-bottom: 38px;
   opacity: 1;
 }
-.tm-podcast-block.text{
+.tm-podcast-img.text{
   opacity: 0;
 }
-.tm-podcast-block:hover.text{
+.tm-podcast-img:hover.text{
   opacity: 0.5;
   font-size: 14px;
   align-items: center;
