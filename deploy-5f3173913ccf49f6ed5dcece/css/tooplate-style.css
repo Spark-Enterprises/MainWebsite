@@ -304,6 +304,9 @@ p:last-child {
   margin-bottom: 38px;
   opacity: 1;
 }
+.tm-podcast-block.text{
+  opacity: 0;
+}
 .tm-podcast-block:hover.text{
   opacity: 0.5;
   font-size: 14px;
@@ -313,9 +316,6 @@ p:last-child {
 .tm-podcast-img-container {
   width: 550px;
   height: 120px;
-}
-.tm-podcast-block.text{
-  opacity: 0;
 }
 .tm-company-about {
   display: flex;
