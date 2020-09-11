@@ -292,19 +292,6 @@ p:last-child {
   height: 180px;
 }
 
-.tm-podcast-block {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  border: 1px solid #c7c7c7;
-  padding: 30px 20px;
-  margin-bottom: 38px;
-}
-
-
 .tm-company-about {
   display: flex;
   flex-direction: column;
