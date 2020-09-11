@@ -308,6 +308,7 @@ p:last-child {
   opacity: 0.5;
   font-size: 14px;
   align-items: center;
+  color: green;
 }
 .tm-podcast-img-container {
   width: 550px;
