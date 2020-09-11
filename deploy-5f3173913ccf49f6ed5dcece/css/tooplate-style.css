@@ -304,18 +304,17 @@ p:last-child {
   margin-bottom: 38px;
   opacity: 1;
 }
-.tm-podcast-block:hover{
+.tm-podcast-block:hover.text{
   opacity: 0.5;
+  font-size: 14px;
+  align-items: center;
 }
 .tm-podcast-img-container {
   width: 550px;
   height: 120px;
 }
-.tm-podcast-img-container:hover.img{
-  opacity: 0.5;
-}
-.tm-podcast-img-container:hover.Image{
-  opacity: 1;
+.tm-podcast-block.text{
+  opacity: 0;
 }
 .tm-company-about {
   display: flex;
