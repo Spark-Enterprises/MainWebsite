@@ -516,6 +516,8 @@ figure {
   .tm-aboutUs-img-container-center{
     align-self: start;
   }
+}
+@media (min-width: 1020px) and (max-width:1025px) {
   .tm-podcast-img-container {
     width: 360px;
     height: 100px;
