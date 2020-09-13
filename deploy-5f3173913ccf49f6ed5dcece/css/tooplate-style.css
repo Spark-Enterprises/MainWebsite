@@ -302,7 +302,9 @@ p:last-child {
   border: 0;
   padding: 30px 20px;
   margin-bottom: 38px;
-  opacity: 0.5;
+  opacity: 0.5s;
+  filter:blur(30px);
+  transform:translateX(-130px) skewX(-15deg);
 }
 .tm-podcast-block:hover{
   opacity: 1;
