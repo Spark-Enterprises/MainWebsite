@@ -299,7 +299,7 @@ p:last-child {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  border: 1px solid white;
+  border: 0;
   padding: 30px 20px;
   margin-bottom: 38px;
   opacity: 1;
