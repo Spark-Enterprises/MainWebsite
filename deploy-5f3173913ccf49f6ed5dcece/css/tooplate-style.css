@@ -304,11 +304,6 @@ p:last-child {
   margin-bottom: 38px;
   opacity: 0.5;
 }
-.tm-podcast-block:hover:before{
-  transform: translateX(300px) skewX(-15deg);
-  opacity: 0.5;
-  transition:.7s
-}
 .tm-podcast-block:hover:after{
   transform: translateX(300px) skewX(-15deg);
   opacity: 1;
