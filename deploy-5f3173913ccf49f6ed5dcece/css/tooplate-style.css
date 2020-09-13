@@ -516,6 +516,10 @@ figure {
   .tm-aboutUs-img-container-center{
     align-self: start;
   }
+  .tm-podcast-img-container {
+    width: 300px;
+    height: 80px;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -554,10 +558,6 @@ figure {
 
   .tm-contact-right {
     padding-left: 0;
-  }
-  .tm-podcast-img-container {
-    width: 300px;
-    height: 80px;
   }
 }
 
