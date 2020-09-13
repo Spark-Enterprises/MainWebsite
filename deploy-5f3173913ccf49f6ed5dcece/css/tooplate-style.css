@@ -303,8 +303,10 @@ p:last-child {
   padding: 30px 20px;
   margin-bottom: 38px;
   opacity: 0.5;
+  transition: transform .2s ease-in-out;
 }
 .tm-podcast-block:hover{
+  transform:translate(0px, -150px,0px) ;
   opacity:1;
 }
 .tm-podcast-img-container {
