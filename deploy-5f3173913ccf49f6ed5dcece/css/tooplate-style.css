@@ -306,6 +306,8 @@ p:last-child {
 }
 .tm-podcast-block:hover{
   opacity: 1;
+  transition-delay: 1s;
+  -webkit-transition-delay: 1s;
 }
 .tm-podcast-img-container {
   width: 550px;
