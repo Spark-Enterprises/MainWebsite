@@ -306,7 +306,7 @@ p:last-child {
   transition: transform .2s ease-in-out;
 }
 .tm-podcast-block:hover{
-  transform:translate(0px, -150px,0px) ;
+  transform:translate3d(0px, -150px,0px) ;
   opacity:1;
 }
 .tm-podcast-img-container {
