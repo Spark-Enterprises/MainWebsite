@@ -308,6 +308,7 @@ p:last-child {
   opacity: 1;
   transition-delay: 1s;
   -webkit-transition-delay: 1s;
+  transform:translateX(-130px) scaleX(-15deg);
 }
 .tm-podcast-img-container {
   width: 550px;
