@@ -203,6 +203,23 @@ p:last-child {
   justify-content: center;
 }
 
+.tm-parallax-pod {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  height: 240px;
+  background-image: url(../img/podcast.PNG);
+  margin-bottom: 68px;
+  position: relative;
+}
+
 .tm-text-blue {
   color: #108ac1;
   padding-right: 20px;
@@ -275,10 +292,26 @@ p:last-child {
   height: 180px;
 }
 
-.tm-company-section {
-  padding-top: 53px;
+.tm-podcast-block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: 0;
+  padding: 30px 20px;
+  margin-bottom: 38px;
+  opacity: 1;
 }
-
+.tm-podcast-block:hover{
+  transition: transform 2s ease-in-out;
+  opacity:0.5;
+}
+.tm-podcast-img-container {
+  width: 550px;
+  height: 130px;
+}
 .tm-company-about {
   display: flex;
   flex-direction: column;
@@ -485,6 +518,12 @@ figure {
     align-self: start;
   }
 }
+@media (min-width: 1020px) and (max-width:1025px) {
+  .tm-podcast-img-container {
+    width: 360px;
+    height: 100px;
+  }
+}
 
 @media (min-width: 1200px) {
   .container {
@@ -573,6 +612,10 @@ figure {
     padding-right: -8px;
     
   }
+  .tm-podcast-img-container {
+    width: 450px;
+    height: 110px;
+  }
 }
 
 @media (max-width: 440px) {
@@ -593,6 +636,10 @@ figure {
     height: auto;
     align-items: center;
     padding-left: 40px;
+  }
+  .tm-podcast-img-container {
+    width: 300px;
+    height: 80px;
   }
   
 }
