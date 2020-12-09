@@ -485,6 +485,14 @@ figure {
   transition: opacity 0s linear;
 }
 
+.socialmedia .fa{
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
 /*--MEDIA SCREENS--*/
 @media (min-width: 768px) {
   .tm-feature-block {
