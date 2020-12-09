@@ -60,7 +60,7 @@ p:last-child {
   position: fixed;
   top: 0;
   border-top: none;
-  background:rgba(189, 77, 63);
+  background:white;
 }
 
 .navbar-expand-md .navbar-nav .nav-link {
