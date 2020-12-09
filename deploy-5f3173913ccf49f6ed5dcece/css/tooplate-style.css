@@ -52,7 +52,7 @@ p:last-child {
   width: 100%;
   border-top: 1px solid #909090;
   border-bottom: 1px solid #909090;
-  background-color: rgba(189, 77, 63);
+  background-color:transparent;
   z-index: 3000;
 }
 
