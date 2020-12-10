@@ -17,6 +17,7 @@
   </head>
 
   <body>
+  
     <!-- navbar -->
     <div class="tm-nav-section">
       <div class="container">
@@ -495,8 +496,8 @@
         $(window).on("load scroll resize", function() {
           var scrolled = $(this).scrollTop();
           var vidHeight = $("#hero-vid").height();
-          var offset = vidHeight * 0.6;
-          var scrollSpeed = 0.25;
+          var offset = vidHeight * 0.5;
+          var scrollSpeed = 2.25;
           var windowWidth = window.innerWidth;
 
           if (windowWidth < 768) {
