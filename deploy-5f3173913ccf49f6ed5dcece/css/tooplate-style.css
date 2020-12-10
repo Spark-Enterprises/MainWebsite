@@ -108,9 +108,9 @@ p:last-child {
 }
 
 .tm-banner-section video {
-  position: absolute;
+  position: relative;
   left: 50%;
-  top: 90%;
+  top: 130%;
   transform: translate(-50%, -60%);
   min-width: 100%;
   min-height: 100%;
@@ -137,7 +137,7 @@ p:last-child {
 }
 
 .tm-features-section {
-  padding-top: 50px;
+  padding-top: 200px;
   padding-bottom: 85px;
   margin-top: 50px;
 }
