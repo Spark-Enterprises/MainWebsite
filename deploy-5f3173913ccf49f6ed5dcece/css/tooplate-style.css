@@ -668,9 +668,13 @@ figure {
 {
   background-color:#3b5998
 }
-.social-icons a.twitter:hover
+.social-icons a.google:hover
 {
-  background-color:#00aced
+  background-color:#3cba54
+}
+.social-icons a.youtube:hover
+{
+  background-color:red
 }
 .social-icons a.linkedin:hover
 {
@@ -678,7 +682,7 @@ figure {
 }
 .social-icons a.dribbble:hover
 {
-  background-color:#ea4c89
+  background-color:#8a3ab9
 }
 @media (max-width:767px)
 {
