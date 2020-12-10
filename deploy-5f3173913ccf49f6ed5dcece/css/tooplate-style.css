@@ -52,7 +52,7 @@ p:last-child {
   width: 100%;
   border-top: 1px solid #909090;
   border-bottom: 1px solid #909090;
-  background-color:#26272b;
+  background-color:white;
   z-index: 3000;
 }
 
@@ -60,7 +60,7 @@ p:last-child {
   position: fixed;
   top: 0;
   border-top: none;
-  background:#26272b;
+  background:white;
 }
 
 .navbar-expand-md .navbar-nav .nav-link {
@@ -68,7 +68,7 @@ p:last-child {
 }
 
 .navbar-light .navbar-nav .nav-link {
-  color:white;
+  color: #313131;
 }
 
 #tmMainNav .nav-link.current,
